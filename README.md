@@ -5,7 +5,7 @@ I consider myself as a commited, kind and responsible person.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning python, HTML, css and Javascript to build responsive page and dinamic! 
+- 🌱 I’m currently learning python, HTML, CSS and Javascript to build responsive and dinamic webpages! 
 -  I am eager to keep learning to have a solid knowledge in these areas.
 
 - ⚡ Fun fact:
