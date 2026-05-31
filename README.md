@@ -5,9 +5,8 @@ I consider myself as a commited, kind and responsible person.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning python and I look forward to learning javascript!
--  I am eager to keep learning to have a solid knowledge in both areas.
-  likewise, I keep learning English to be able to maintain a fluent conversation.
+- 🌱 I’m currently learning python, HTML, css and Javascript to build responsive page and dinamic! 
+-  I am eager to keep learning to have a solid knowledge in these areas.
 
 - ⚡ Fun fact:
  In my free time, something that I enjoy doing is working out or watching some romantic or sci-fi series.
